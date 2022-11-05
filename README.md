@@ -1,5 +1,5 @@
 # Data-Entry
-This is a window application design to take the data and do all the functional activity like
+## This is a window application design to take the data and do all the functional activity like
 ### 1)New
 ### 2)Insert
 ### 3)Delete
