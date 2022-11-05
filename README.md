@@ -1,8 +1,9 @@
 # Data-Entry
 This is a window application design to take the data and do all the functional activity like
-## New
-#
-## 
+### 1)New
+### 2)Insert
+### 3)Delete
+### 4)Update
 # SQL DATA SERVER
 ![image](https://user-images.githubusercontent.com/95826757/200138916-9b98ae29-90db-43b8-9e2a-9015f953b404.png)
 # SQL Code
